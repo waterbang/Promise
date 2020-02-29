@@ -3,7 +3,7 @@
 
 
 ### code
-
+```
 const PENDING = 'PENDING';
 const FULFILLED = 'FULFILLED';
 const REJECTED = 'REJECTED';
@@ -162,3 +162,4 @@ module.exports = Promise;
 
 
 // 先全局安装 在进行测试 promises-aplus-tests 文件名
+```
